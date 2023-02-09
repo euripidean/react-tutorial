@@ -5,3 +5,8 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 40px;
   }
+
+  p {
+    font-style: italic;
+    text-transform: uppercase;
+  }

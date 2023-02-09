@@ -6,6 +6,11 @@ function Footer(){
     return(
         <footer className="footer">
             Jane Harrison, {`${date.toLocaleDateString("en-CA", {year: 'numeric'})}`}.
+            <p>
+                <a href="#about">About</a>
+                <a href="#contact">Contact</a>
+                <a href="#info">More Information</a>
+                </p>
         </footer>
     )
 }

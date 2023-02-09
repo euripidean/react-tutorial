@@ -4,5 +4,8 @@
     margin-top: 15px;
     text-align: right;
     font-weight: bold;
-    align-content: baseline;
+}
+
+a {
+    margin: 10px;
 }
