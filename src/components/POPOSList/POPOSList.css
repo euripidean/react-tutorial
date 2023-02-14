@@ -6,7 +6,7 @@
     grid-gap: 40px;
   }
 
-  p {
+  .hours {
     font-style: italic;
     text-transform: uppercase;
   }
